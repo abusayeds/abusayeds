@@ -3,7 +3,7 @@
 <img align ="right" alt ="coding" width ="400" src="[https://dribbble.com/shots/4502924-Python-developer-animation](https://media.licdn.com/dms/image/D4D16AQEdjBHOEpEV0Q/profile-displaybackgroundimage-shrink_350_1400/0/1687437977640?e=1698278400&v=beta&t=w5S1wQRPR7YfBjzQsea0A2setp6LzXd4gAd5pcdUEQ8)"
 "
 
-- 🔭 I’m currently working on [To News](https://golden-starlight-8a9c0a.netlify.app/)
+
 
 - 🌱 I’m currently learning **Web-Devlopment**
 
