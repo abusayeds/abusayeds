@@ -39,10 +39,13 @@
 
 ## :eyes: Current overview
 
-### 🌱 I’m exploring - Backend && problem solving. 
-### 🌱 I’m exploring - Backend && problem solving. 
-### 🎉 I’ have storng  - Learn new tecnologies quickly
-### 🤔 I’m trying - Always speak english. 
+### 🌱 I’m currently - working on Web development
+### 🌱 Building interactive and responsive web applications using React.js. 
+### 🌱 Beautiful and mobile friendly UI design with Tailwind CSS.
+### 🎉 State Management and Data Flow Control with React Hooks and Redux.
+### 🤔 Building RESTful APIs with Node.js and Express.js.
+### 🤔 Database Management and Data Modeling with MongoDB and Mongoose.
+### 🤔 Type safety via TypeScript in backend services.
 
 
 
