@@ -1,15 +1,6 @@
 <div align="center">
 
-```
-█████╗ ██████╗ ██╗   ██╗    ███████╗ █████╗ ██╗   ██╗███████╗██████╗
-██╔══██╗██╔══██╗██║   ██║    ██╔════╝██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗
-███████║██████╔╝██║   ██║    ███████╗███████║ ╚████╔╝ █████╗  ██║  ██║
-██╔══██║██╔══██╗██║   ██║    ╚════██║██╔══██║  ╚██╔╝  ██╔══╝  ██║  ██║
-██║  ██║██████╔╝╚██████╔╝    ███████║██║  ██║   ██║   ███████╗██████╔╝
-╚═╝  ╚═╝╚═════╝  ╚═════╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5C8&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Abu+Sayed+%F0%9F%91%8B;MERN+Stack+Developer;React+%26+Next.js+Engineer;Building+the+web%2C+one+commit+at+a+time." alt="Typing SVG" />
+<h3><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=99999&color=00F5C8&center=true&vCenter=true&width=300&lines=Full+Stack+Developer" alt="Full Stack Developer" /></h3>
 
 <br/>
 
@@ -27,17 +18,13 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-const abuSayed = {
-  role:       "Full Stack Developer (MERN + NestJS + PostgreSQL)",
-  location:   "Dhaka, Bangladesh 🇧🇩",
-  focus:      ["React.js", "Next.js", "NestJS", "TypeScript", "PostgreSQL"],
-  building:   "Fast, scalable & beautiful web applications",
-  available:  true, // Open to new opportunities!
-  contact:    "abusayedstudent855@gmail.com",
+ AbuSayed Info = {
+  role           :   Full Stack Developer,
+  focus          :   React.js, Next.js, TypeScript, Node Js, NestJS, Express Js, PostgreSQL, Mogodb
+  Current status :   Full Stack Devel0per at sparktech agency (Present)
 };
 ```
 
-> *"Clean code, pixel-perfect UI, and scalable architecture — that's my craft."*
 
 ---
 
@@ -126,17 +113,5 @@ const abuSayed = {
 
 <div align="center">
 
-### 💬 Let's Build Something Amazing Together!
-
-[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge)](mailto:abusayedstudent855@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/abu-sayed96)
-
-<br/>
-
-*"Every great project starts with a single commit."* 🚀
-
----
-
-⭐ **If you find my work helpful, consider starring my repositories!** ⭐
 
 </div>
